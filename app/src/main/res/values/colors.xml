@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========== PRIMARY COLORS ========== -->
+    <!-- Coffee Brown - Main brand color -->
+    <color name="color_coffee_brown">#6D4C41</color>
+    <color name="color_dark_brown">#5D4037</color>
+    <color name="color_light_brown">#8D6E63</color>
+    <color name="color_extra_light_brown">#A1887F</color>
+
+    <!-- ========== SECONDARY COLORS ========== -->
+    <!-- Caramel & Warm Tones -->
+    <color name="color_caramel">#D2691E</color>
+    <color name="color_beige">#D7CCC8</color>
+    <color name="color_tan">#BC8F8F</color>
+    <color name="color_sand">#C2B280</color>
+
+    <!-- ========== NEUTRAL COLORS ========== -->
+    <!-- Whites & Off-whites -->
+    <color name="color_cream_white">#FFFBF0</color>
+    <color name="color_off_white">#FAF8F3</color>
+    <color name="color_light_gray">#F5F5F5</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <!-- Grays & Blacks -->
+    <color name="color_light_gray_2">#EFEFEF</color>
+    <color name="color_medium_gray">#BDBDBD</color>
+    <color name="color_dark_gray">#757575</color>
+    <color name="color_charcoal">#424242</color>
+    <color name="color_black">#000000</color>
+
+    <!-- ========== MATERIAL DESIGN 3 SEMANTIC COLORS ========== -->
+    <!-- Primary -->
+    <color name="md_theme_light_primary">#6D4C41</color>
+    <color name="md_theme_light_on_primary">#FFFFFF</color>
+    <color name="md_theme_light_primary_container">#D7CCC8</color>
+    <color name="md_theme_light_on_primary_container">#3C2C26</color>
+
+    <!-- Secondary -->
+    <color name="md_theme_light_secondary">#D2691E</color>
+    <color name="md_theme_light_on_secondary">#FFFFFF</color>
+    <color name="md_theme_light_secondary_container">#FFDBC9</color>
+    <color name="md_theme_light_on_secondary_container">#451500</color>
+
+    <!-- Tertiary -->
+    <color name="md_theme_light_tertiary">#8D6E63</color>
+    <color name="md_theme_light_on_tertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiary_container">#DBC5BB</color>
+    <color name="md_theme_light_on_tertiary_container">#3C2C26</color>
+
+    <!-- Error -->
+    <color name="md_theme_light_error">#B3261E</color>
+    <color name="md_theme_light_on_error">#FFFFFF</color>
+    <color name="md_theme_light_error_container">#F9DEDC</color>
+    <color name="md_theme_light_on_error_container">#410E0B</color>
+
+    <!-- Background & Surface -->
+    <color name="md_theme_light_background">#FFFBF0</color>
+    <color name="md_theme_light_on_background">#201A19</color>
+    <color name="md_theme_light_surface">#FFFBF0</color>
+    <color name="md_theme_light_on_surface">#201A19</color>
+    <color name="md_theme_light_surface_variant">#F5EFE9</color>
+    <color name="md_theme_light_on_surface_variant">#53453E</color>
+
+    <!-- ========== DARK MODE COLORS ========== -->
+    <!-- Dark Theme Primary -->
+    <color name="md_theme_dark_primary">#D7CCC8</color>
+    <color name="md_theme_dark_on_primary">#3C2C26</color>
+    <color name="md_theme_dark_primary_container">#5D4037</color>
+    <color name="md_theme_dark_on_primary_container">#E8D5CF</color>
+
+    <!-- Dark Theme Secondary -->
+    <color name="md_theme_dark_secondary">#FFDBC9</color>
+    <color name="md_theme_dark_on_secondary">#451500</color>
+    <color name="md_theme_dark_secondary_container">#B8390F</color>
+    <color name="md_theme_dark_on_secondary_container">#FFDBC9</color>
+
+    <!-- Dark Theme Tertiary -->
+    <color name="md_theme_dark_tertiary">#DBC5BB</color>
+    <color name="md_theme_dark_on_tertiary">#3C2C26</color>
+    <color name="md_theme_dark_tertiary_container">#6D5453</color>
+    <color name="md_theme_dark_on_tertiary_container">#F8DED3</color>
+
+    <!-- Dark Theme Error -->
+    <color name="md_theme_dark_error">#F2B8B5</color>
+    <color name="md_theme_dark_on_error">#601410</color>
+    <color name="md_theme_dark_error_container">#8C1D18</color>
+    <color name="md_theme_dark_on_error_container">#F9DEDC</color>
+
+    <!-- Dark Theme Background & Surface -->
+    <color name="md_theme_dark_background">#201A19</color>
+    <color name="md_theme_dark_on_background">#EDE0DD</color>
+    <color name="md_theme_dark_surface">#201A19</color>
+    <color name="md_theme_dark_on_surface">#EDE0DD</color>
+    <color name="md_theme_dark_surface_variant">#53453E</color>
+    <color name="md_theme_dark_on_surface_variant">#D8C6BE</color>
+
+    <!-- ========== STATUS COLORS ========== -->
+    <!-- Success -->
+    <color name="color_success_green">#4CAF50</color>
+    <color name="color_success_light">#E8F5E9</color>
+
+    <!-- Error -->
+    <color name="color_error_red">#F44336</color>
+    <color name="color_error_light">#FFEBEE</color>
+
+    <!-- Warning -->
+    <color name="color_warning_orange">#FF9800</color>
+    <color name="color_warning_light">#FFF3E0</color>
+
+    <!-- Info -->
+    <color name="color_info_blue">#2196F3</color>
+    <color name="color_info_light">#E3F2FD</color>
+
+    <!-- ========== ACCENT COLORS ========== -->
+    <color name="color_accent_green">#00BCD4</color>
+    <color name="color_accent_blue">#3F51B5</color>
+    <color name="color_accent_purple">#9C27B0</color>
+    <color name="color_accent_yellow">#FFC107</color>
+    <color name="color_accent_pink">#E91E63</color>
+
+    <!-- ========== TRANSPARENT VARIANTS ========== -->
+    <!-- White Transparency -->
+    <color name="color_white_10">#1AFFFFFF</color>
+    <color name="color_white_20">#33FFFFFF</color>
+    <color name="color_white_30">#4DFFFFFF</color>
+    <color name="color_white_50">#80FFFFFF</color>
+    <color name="color_white_70">#B3FFFFFF</color>
+    <color name="color_white_90">#E6FFFFFF</color>
+
+    <!-- Black Transparency -->
+    <color name="color_black_10">#1A000000</color>
+    <color name="color_black_20">#33000000</color>
+    <color name="color_black_30">#4D000000</color>
+    <color name="color_black_50">#80000000</color>
+    <color name="color_black_70">#B3000000</color>
+    <color name="color_black_90">#E6000000</color>
+
+    <!-- ========== GRADIENT COLORS (for reference in code) ========== -->
+    <!-- Cafe Brown Gradient -->
+    <color name="color_gradient_start">#6D4C41</color>
+    <color name="color_gradient_middle">#8D6E63</color>
+    <color name="color_gradient_end">#A1887F</color>
+
+    <!-- Warm Gradient -->
+    <color name="color_warm_gradient_start">#D2691E</color>
+    <color name="color_warm_gradient_middle">#D7CCC8</color>
+    <color name="color_warm_gradient_end">#FFFBF0</color>
+
+    <!-- ========== COMMON UI COLORS ========== -->
+    <!-- Text Colors -->
+    <color name="color_text_primary">#201A19</color>
+    <color name="color_text_secondary">#53453E</color>
+    <color name="color_text_tertiary">#9A8C87</color>
+    <color name="color_text_disabled">#BDBDBD</color>
+    <color name="color_text_hint">#B0A0A0</color>
+
+    <!-- Border Colors -->
+    <color name="color_border_light">#E8DDD8</color>
+    <color name="color_border_medium">#D7CCC8</color>
+    <color name="color_border_dark">#A1887F</color>
+
+    <!-- Divider Colors -->
+    <color name="color_divider">#E0E0E0</color>
+    <color name="color_divider_light">#F5F5F5</color>
+
+    <!-- ========== RATING & FEEDBACK COLORS ========== -->
+    <color name="color_rating_star">#FFB81C</color>
+    <color name="color_rating_empty">#E0E0E0</color>
+
+    <!-- ========== SPECIFIC FEATURE COLORS ========== -->
+    <!-- Cart & Checkout -->
+    <color name="color_cart_badge">#4CAF50</color>
+    <color name="color_checkout_active">#6D4C41</color>
+    <color name="color_checkout_inactive">#BDBDBD</color>
+
+    <!-- Orders -->
+    <color name="color_order_pending">#FFC107</color>
+    <color name="color_order_processing">#2196F3</color>
+    <color name="color_order_completed">#4CAF50</color>
+    <color name="color_order_cancelled">#F44336</color>
+
+    <!-- Tags & Labels -->
+    <color name="color_tag_vegetarian">#4CAF50</color>
+    <color name="color_tag_non_vegetarian">#F44336</color>
+    <color name="color_tag_vegan">#8BC34A</color>
+    <color name="color_tag_spicy">#FF5722</color>
+
+    <!-- Loyalty & Points -->
+    <color name="color_loyalty_gold">#FFD700</color>
+    <color name="color_loyalty_silver">#C0C0C0</color>
+    <color name="color_loyalty_bronze">#CD7F32</color>
+
+    <!-- ========== SHIMMER LOADING COLORS ========== -->
+    <color name="color_shimmer_base">#E0E0E0</color>
+    <color name="color_shimmer_highlight">#F5F5F5</color>
+
+    <!-- ========== OVERLAY COLORS ========== -->
+    <color name="color_overlay_dark">#99000000</color>
+    <color name="color_overlay_light">#99FFFFFF</color>
+
+</resources>
